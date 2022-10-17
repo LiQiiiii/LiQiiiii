@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LiQiiiii, an undergratuate srtudent of NWPU.
+- 👋 Hi, I’m @LiQiiiii, an undergratuate student of NWPU.
 - 👀 I’m interested in Trustworthy ML, Ubiquitous Computing and Complex Networks.
 - 🌱 I’m currently at National University of Singapore (Chongqing) Research Institute.
 - 💞️ I’m looking to collaborate on Adversarial Robustness.
