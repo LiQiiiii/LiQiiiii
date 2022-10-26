@@ -4,7 +4,7 @@
 - 💞️ I’m looking for research oppotunities on Adversarial Robustness.
 - 📫 How to reach me: liqiiiii0704@gmail.com.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiQiiiii&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiQiiiii)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 LiQiiiii/LiQiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
