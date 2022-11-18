@@ -1,7 +1,5 @@
 - Hi, I’m @LiQiiiii, an undergratuate student of NWPU.
-- I’m interested in Trustworthy ML, Ubiquitous Computing and Complex Networks.
 - I’m currently at National University of Singapore (Chongqing) Research Institute.
-- I’m looking for research oppotunities on Adversarial Robustness.
 - How to reach me: liqiiiii0704@gmail.com.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiQiiiii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
