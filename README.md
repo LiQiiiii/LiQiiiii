@@ -1,2 +1,2 @@
-- Hi, I’m @LiQiiiii, an master student from NUS.
+- Hi, I’m @LiQiiiii, a master student from NUS.
 - How to reach me: liqi@u.nus.edu.
